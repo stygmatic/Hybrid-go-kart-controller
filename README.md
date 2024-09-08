@@ -1,3 +1,5 @@
+Currently working on the code;  If anyone wants to help they can, just dm me on discord at @notryry. and/or create a fork
+
 J2: Analog input, throttle input read by ADC on the ATmega, determines throttle position for controlling either motor.
 
 J3: Power input, 3.3V and GND to power the circuit, Pin 3 left unconnected.
